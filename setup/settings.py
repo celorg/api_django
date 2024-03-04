@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'escola.apps.EscolaConfig',
+    'cliente.apps.ClienteConfig',
 ]
 
 MIDDLEWARE = [
